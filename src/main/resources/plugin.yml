@@ -1,0 +1,7 @@
+name: Worldsblocker
+version: ${project.version}
+main: koral.worldsblocker.Worldsblocker
+api-version: 1.13
+commands:
+  worldsblocker:
+    permission: worldsblocker.admin
